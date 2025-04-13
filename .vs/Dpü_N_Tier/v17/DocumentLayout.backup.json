@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DB551-A9F2-4E95-9DBE-E6A4D4854A35}|EntiityLayer\\EntiityLayer.csproj|c:\\users\\myusu\\source\\repos\\dp\u00FC_n_tier\\entiitylayer\\models\\fak\u00FClte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DB551-A9F2-4E95-9DBE-E6A4D4854A35}|EntiityLayer\\EntiityLayer.csproj|solutionrelative:entiitylayer\\models\\fak\u00FClte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9DB551-A9F2-4E95-9DBE-E6A4D4854A35}|EntiityLayer\\EntiityLayer.csproj|c:\\users\\myusu\\source\\repos\\dp\u00FC_n_tier\\entiitylayer\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9DB551-A9F2-4E95-9DBE-E6A4D4854A35}|EntiityLayer\\EntiityLayer.csproj|solutionrelative:entiitylayer\\models\\ders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857233BC-955D-40C1-81DD-CA3B6CEF58DD}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\myusu\\source\\repos\\dp\u00FC_n_tier\\dataaccesslayer\\configrations\\derslerconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857233BC-955D-40C1-81DD-CA3B6CEF58DD}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\configrations\\derslerconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fak\u00FClte.cs",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\EntiityLayer\\Models\\Fak\u00FClte.cs",
+              "RelativeDocumentMoniker": "EntiityLayer\\Models\\Fak\u00FClte.cs",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\EntiityLayer\\Models\\Fak\u00FClte.cs",
+              "RelativeToolTip": "EntiityLayer\\Models\\Fak\u00FClte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:53:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ders.cs",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\EntiityLayer\\Models\\Ders.cs",
+              "RelativeDocumentMoniker": "EntiityLayer\\Models\\Ders.cs",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\EntiityLayer\\Models\\Ders.cs",
+              "RelativeToolTip": "EntiityLayer\\Models\\Ders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:47:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DerslerConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\DataAccessLayer\\Configrations\\DerslerConfigrations.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Configrations\\DerslerConfigrations.cs",
+              "ToolTip": "C:\\Users\\myusu\\source\\repos\\Dp\u00FC_N_Tier\\DataAccessLayer\\Configrations\\DerslerConfigrations.cs",
+              "RelativeToolTip": "DataAccessLayer\\Configrations\\DerslerConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:00:50.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
